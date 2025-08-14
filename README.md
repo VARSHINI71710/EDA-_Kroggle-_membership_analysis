@@ -1,27 +1,27 @@
 Kroger’s Membership Analysis
 Project Overview
-________________
 
 This project is focused on analyzing Kroger customer membership data to uncover patterns in customer behavior, membership adoption, and spending habits. The primary objective is to provide actionable insights that can guide business decisions such as membership marketing strategies, customer retention programs, and targeted promotions.
 
 The analysis spans data cleaning, exploratory data analysis (EDA), statistical computations, linear algebra operations, feature engineering, and SQL-like simulations using Pandas. The approach combines practical Python programming, data science methods, and mathematical operations to derive meaningful insights from real-world customer data.
+____
 
 Dataset
-_______
 
 Source: Kroger Membership Dataset
+__
 
 Columns
-_______
+
 
 kroger_id → Unique identifier for each customer
 
 has_member_card → Indicates if the customer holds a Kroger membership ('Y' for yes, NULL or empty if not)
 
 The dataset is relatively simple, but it provides a foundation to explore data cleaning, statistical analysis, feature engineering, and visualization techniques.
-
+_____
 Objectives
-__________
+
 
 Understand basic membership patterns and distributions among customers
 
@@ -38,9 +38,9 @@ Engineer additional features such as membership flags, simulated spending, and d
 Perform SQL-like queries in Pandas for business-oriented insights
 
 Identify key trends and actionable findings regarding customer membership and spending behavior
-
+_____
 Tools & Technologies
-___________________
+
 
 Programming Language: Python
 
@@ -49,9 +49,9 @@ Libraries: pandas, numpy, matplotlib, seaborn
 IDE/Environment: Jupyter Notebook, VS Code, Google Colab
 
 Version Control: Git & GitHub
-
+__
 Methodology
-___________
+
 
 1. Basic Data Understanding
 2. Data Cleaning
@@ -61,9 +61,9 @@ ___________
 6. Feature Engineering
 7. SQL Simulation Using Pandas
 8. Insights & Findings
-
+_________
 Key Takeaways
-_____________
+
 
 Members typically have higher monthly spend than non-members
 
